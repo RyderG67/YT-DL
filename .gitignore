@@ -1,0 +1,5 @@
+
+*.ide
+.vs/YoutubeDL/v15/Server/sqlite3/db.lock
+.vs/YoutubeDL/v15/.suo
+YoutubeDL.sln
